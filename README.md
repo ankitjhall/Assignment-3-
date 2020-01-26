@@ -2,4 +2,4 @@
 Queue assignment 
 
 
-Not completed..
+Not completed.
