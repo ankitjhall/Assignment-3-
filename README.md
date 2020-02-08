@@ -2,4 +2,3 @@
 Queue assignment 
 
 
-N
